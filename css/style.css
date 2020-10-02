@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Lato", sans-serif;
+  background-color: #003282;
+}
+
+.container {
+  max-width: 750px;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: #9ec3ff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+p.par-length {
+  margin-top: 40px;
+}
